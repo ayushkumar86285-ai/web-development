@@ -1,2 +1,2 @@
 # web-development
-Stsrting intership of web development
+Starting intership of web development
